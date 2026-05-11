@@ -1,9 +1,8 @@
-<div align="center">
-
 # 🪐 Hello World, I'm John Lorence Valios
 **Passionate IT Student @ New Era University | Full-Stack Developer**
-
-<img src="https://thumbs.dreamstime.com/b/clip-art-lofi-style-neon-blue-pink-image-to-show-privacy-policy-page-simplistic-wallpaper-banner-anime-style-unique-321292861.jpg" alt="LAWRNZ DESKTOP" width="100%" />
+<div align="center">
+  
+<img src="https://wallpapercave.com/wp/wp14864632.webp" alt="LAWRNZ DESKTOP" width="100%" />
 
 <br/>
 
