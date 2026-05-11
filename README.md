@@ -1,8 +1,9 @@
+<div align="center">
+
 # 🪐 Hello World, I'm John Lorence Valios
 **Passionate IT Student @ New Era University | Full-Stack Developer**
-<div align="center">
-  
-<img src="https://wallpapercave.com/wp/wp14864632.webp" alt="LAWRNZ DESKTOP" width="100%" />
+
+<img src="https://wallpapercave.com/wp/wp14864632.webp" alt="John Lorence Valios Banner" width="100%" />
 
 <br/>
 
@@ -15,21 +16,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lawrnz765&theme=darkhub&column=4" alt="trophies" width="800" />
 </a>
 
-<br/>
+</div>
+
+---
 
 ### 📖 About Me
-I am **John Lorence Valios**, a developer with a flair for coding and robust database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech truly ignited when I enrolled in the **BS Information Technology** program, where I began bridging the gap between creative design and technical logic.
+I am **John Lorence Valios**, a developer with a flair for coding and robust database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech truly ignited when I enrolled in the **BS Information Technology** program at **New Era University**, where I began bridging the gap between creative design and technical logic.
 
-* 🔭 **Current Focus:** Advanced MySQL optimization & System Architecture.
-* 💬 **Ask me about:** Web development, UI/UX design, and Cloud Foundations.
-* ⚡ **Fun Fact:** I’m my own toughest critic, but I code with 100% confidence.
+* 🔭 **Current Focus:** Advanced MySQL optimization & System Architecture
+* 💬 **Ask me about:** Web development, UI/UX design, and Cloud Foundations
+* ⚡ **Fun Fact:** I’m my own toughest critic, but I code with 100% confidence
 
 ---
 
 ### 🎓 Education
-* **Bachelor of Science in Information Technology**
-    * *New Era University*
-    * 2021 – Present
+**Bachelor of Science in Information Technology**
+*New Era University*
+2021 – Present
 
 ---
 
@@ -66,5 +69,3 @@ I am **John Lorence Valios**, a developer with a flair for coding and robust dat
   <a href="https://www.facebook.com/Jazzrence.me" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/_lawrnz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-<p align="right">(Revised with ✨ by Gemini)</p>
