@@ -1,15 +1,22 @@
+<div align="center">
+
 # 🪐 Hello World, I'm John Lorence Valios
+**Passionate IT Student @ New Era University | Full-Stack Developer**
+
+<img src="https://thumbs.dreamstime.com/b/clip-art-lofi-style-neon-blue-pink-image-to-show-privacy-policy-page-simplistic-wallpaper-banner-anime-style-unique-321292861.jpg" alt="LAWRNZ DESKTOP" width="100%" />
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lawrnz765&label=Profile%20views&color=0e75b6&style=flat-square" alt="lawrnz765" />
-  <img src="https://img.shields.io/github/followers/lawrnz765?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/badge/Profile%20Views-88-0e75b6?style=for-the-badge&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Followers-0-0e75b6?style=for-the-badge&labelColor=20232a" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawrnz765&theme=darkhub&column=4" alt="lawrnz765" /></a>
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=lawrnz765&theme=darkhub&column=4" alt="trophies" width="800" />
+</a>
 
----
+<br/>
 
 ### 📖 About Me
 I am **John Lorence Valios**, a developer with a flair for coding and robust database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech truly ignited when I enrolled in the **BS Information Technology** program, where I began bridging the gap between creative design and technical logic.
